@@ -1,1 +1,8 @@
+gradio
+sentence-transformers
+openpyxl
 pandas
+torch
+scikit-learn
+numpy
+
