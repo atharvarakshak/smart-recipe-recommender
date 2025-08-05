@@ -1,6 +1,4 @@
 
-!pip install gradio sentence-transformers openpyxl
-
 import pandas as pd
 import gradio as gr
 import torch
